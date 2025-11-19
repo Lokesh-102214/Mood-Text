@@ -1,3 +1,4 @@
+# Ref : https://github.com/maelfabien/Multimodal-Emotion-Recognition
 # Mood-Text
 a pipeline for text-based emotion recognition using a deep learning model
 # Emotion Detection Neural Network: Technical Documentation
