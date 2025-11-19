@@ -136,14 +136,4 @@ This comprehensive pipeline combines state-of-the-art natural language processin
 
 ---
 
-## License
 
-[Your License Here]
-
-## Contributors
-
-[Your Name/Team Here]
-
-## Contact
-
-[Your Contact Information]
